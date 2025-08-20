@@ -1,0 +1,179 @@
+ * {
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+ }
+
+ body {
+    background-image: url(goals\ background.avif);
+    background-size: cover;
+ }
+
+ .navadress {
+    font-size: 2rem;
+    text-shadow: 0 0 0.5rem black;
+    background-color: whitesmoke;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+        border-bottom: 4px solid black;
+ }
+
+ .fullbox {
+    height: 80vh;
+    color: aliceblue;
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-bottom: 4px solid black
+    
+    
+ }
+
+ .weekly {
+    display: flex;
+   align-items: center;
+   justify-content: center;
+     margin-left: 8rem;
+   margin-bottom: 2rem;
+    background-color: lightgray;
+    color: black;
+    height: 150px;
+    width: 250px;
+    border-radius: 150px;
+   border: 3px solid black;
+ }
+
+  .Monthly {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+    margin-left: 8rem;
+     margin-bottom: 2rem;
+    background-color: lightgray;
+    color: black;
+    height: 150px;
+    width: 250px;
+    border-radius: 150px;
+    border: 3px solid black;
+ }
+
+  .Quaterly {
+    display: flex;
+   align-items: center;
+   justify-content: center;
+    margin-left: 8rem;
+    background-color: lightgray;
+    color: black;
+    height: 150px;
+    width: 250px;
+    border-radius: 150px;
+    border: 3px solid black;
+ }
+
+ .text-element  {
+    
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   text-align: center;
+   background-color: aqua;
+   size: 3rem;
+ } 
+
+ .chatbox1 {
+   margin-left: 18rem;
+   margin-bottom: 15px;
+   height: 10rem;
+   width: 50rem;
+   background-color: aliceblue;
+   border: none;
+   border: 2px solid black;
+   
+ }
+
+ 
+ .chatbox2 {
+   margin-left: 18rem;
+   margin-bottom: 15px;
+   height: 10rem;
+   width: 50rem;
+   background-color: aliceblue;
+   border: none;
+   border: 2px solid black;
+ }
+
+ 
+ .chatbox3 {
+   margin-left: 18rem;
+   margin-bottom: 15px;
+   height: 10rem;
+   width: 50rem;
+   background-color: aliceblue;
+   border: none;
+   border: 2px solid black;
+ }
+
+ .allchatbox input {
+   font-size: 1rem;
+   height: ;
+   width: 100vh;
+
+ }
+
+ .homeworks {
+  
+  margin-top: 50px;
+ text-align: center;
+ font-size: 1.6rem;
+ color: rgb(1, 7, 1);
+ border: 1px solid black;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5rem;
+ }
+
+.diary {
+  background-color: aqua;
+  background-image: url(diary.webp);
+  background-size: cover;
+  height: 15rem;
+  width: 15rem;
+  border: 3px solid black;
+  box-shadow: 0 0 1.5rem;
+}
+
+.message {
+  background-color: aqua;
+   background-image: url(msg.avif);
+  background-size: cover;
+  height: 15rem;
+  width: 15rem;
+  border: 3px solid black;
+  box-shadow: 0 0 1.5rem;
+}
+
+.notice {
+  background-color: aqua;
+   background-image: url(notice.avif);
+  background-size: cover;
+  height: 15rem;
+  width: 15rem;
+  border: 3px solid black;
+  box-shadow: 0 0 1.5rem;
+}
+
+.assingments {
+  background-color: aqua;
+   background-image: url(proj.avif);
+  background-size: cover;
+  height: 15rem;
+  width: 15rem;
+  border: 3px solid black;
+  box-shadow: 0 0 1.5rem;
+}
